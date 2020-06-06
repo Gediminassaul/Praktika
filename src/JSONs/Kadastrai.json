@@ -1,0 +1,23 @@
+{
+ "Kadastrai" :
+ [
+   {
+     "vartotojoID" : "1",
+     "kadastrinisNr" : "634532342/234",
+     "adresas" : "Plunge",
+     "data" : "2020.03.04"
+   },
+   {
+     "vartotojoID" : "1",
+     "kadastrinisNr" : "6345232/12",
+     "adresas" : "Vilnius",
+     "data" : "2019.06.14"
+   },
+   {
+     "vartotojoID" : "1",
+     "kadastrinisNr" : "634432342/2434",
+     "adresas" : "Kaunas",
+     "data" : "2020.01.29"
+   }
+ ]
+}
