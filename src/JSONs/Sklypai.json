@@ -1,0 +1,23 @@
+{
+ "Sklypai" :
+ [
+   {
+     "sklypoID" : "1",
+     "sklypoNr" : "1",
+     "kadastrinisNr" : "634532342/234",
+     "plotas" : "0.532"
+   },
+   {
+     "sklypoID" : "2",
+     "sklypoNr" : "1b",
+     "kadastrinisNr" : "634532342/234",
+     "plotas" : "1.2"
+   },
+   {
+     "sklypoID" : "3",
+     "sklypoNr" : "2",
+     "kadastrinisNr" : "634532342/234",
+     "plotas" : "0.2"
+   }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "Bareliai" :
+ [
+   {
+     "barelioID" : "1",
+     "barelioNr" : "1",
+     "sklypoID" : "1",
+     "plotas" : "0.2"
+   },
+   {
+     "barelioID" : "2",
+     "barelioNr" : "2",
+     "sklypoID" : "1",
+     "plotas" : "0.5"
+   },
+   {
+     "barelioID" : "3",
+     "barelioNr" : "3",
+     "sklypoID" : "1",
+     "plotas" : "0.1"
+   }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "Medziai" :
+ [
+   {
+     "medzioNr" : "1",
+     "barelioID" : "1",
+     "ardas" : "1",
+     "medzioRusis" : "E",
+     "bukle" : "Žalias",
+     "D" : "23",
+     "H" : "43",
+     "amzius" : "60"
+   },
+   {
+     "medzioNr" : "2",
+     "barelioID" : "1",
+     "ardas" : "1",
+     "medzioRusis" : "P",
+     "bukle" : "Sausas",
+     "D" : "30",
+     "H" : "40",
+     "amzius" : "50"
+   },
+   {
+     "medzioNr" : "3",
+     "barelioID" : "1",
+     "ardas" : "2",
+     "medzioRusis" : "Ac",
+     "bukle" : "Sausas",
+     "D" : "12",
+     "H" : "16",
+     "amzius" : "30"
+   }
+ ]
+}
